@@ -1,0 +1,20 @@
+header table {
+    border-spacing: 10px;
+}
+
+header {
+    margin-left: 55.5%;
+}
+
+.logo-and-sb {
+    margin: 180px;
+    text-align: center;
+}
+
+footer p {
+    margin-left: 15px;  
+}
+
+footer table {
+    border-spacing: 15px 0;
+}

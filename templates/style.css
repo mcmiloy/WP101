@@ -1,0 +1,75 @@
+
+p {
+    font: 14px/1.5 "Times New Roman", times, serif;
+    padding: 30px 10px;
+    border: 1px black solid;
+    border-width: 1px 5px 5px 1px;
+    border-color: red green blue yellow;
+    margin: 10px 50px;
+    float: left;
+}
+
+a {
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial;
+    border-width: 5px;
+    border-color: black;
+    border: solid;
+    padding: 10px;
+    margin: 20px 200px;
+    border-radius: 7px;
+    background-color: rgba(6, 53, 49, 0.87)
+}
+
+h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+
+body {
+    background: white url(http://www.htmldog.com/images/bg.gif) repeat-y top right;
+}
+
+table {
+    font-weight: 600;
+    text-transform: capitalize;
+    border-spacing: 30px;
+    margin: auto;
+    background-color: #66ff33;
+    border-width: 10px;
+    border-color: rgb(168, 16, 156);
+    z-index: 10;    
+    border: solid;
+    border-radius: 10%
+}
+
+td {
+    border-width: 3px;
+    border-color: rgba(12, 31, 114, 0.87);
+    z-index: 1;
+    border: dotted;
+}
+
+.introduction {
+    color: rgb(2, 2, 61);
+    float: left;
+}
+
+#tail {
+    color: rgb(70, 11, 82)
+}
+
+
+#navigation a {
+    display: inline;
+    padding: 20px 10px;
+    color: black;
+}
